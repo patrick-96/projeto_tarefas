@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  background: #f9f9f9;
+}
+
+.welcome-header {
+  text-align: center;
+  color: #555;
+  font-size: 2.5em;
+  margin-top: 0.5em;
+}
+
+.form-panel{
+  padding: 1em;
+  background: #fff;
+  text-align: center;
+  margin: auto;
+  width: 20%;
+  border: 0.1em solid #bbb;
+  border-radius: 0.3em;
+}
+
+.form-field{
+  margin-top: 0.5em;
+  width: 90%;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-label{
+  color: #777;
+}
+
+.email-field {
+  margin-top: 0.3em;
+  padding: 0.5em;
+  width: 100%;
+}
+
+.password-field{
+  margin-top: 0.3em;
+  padding: 0.5em;
+  width: 100%;
+}
+
+.form-button{
+  margin-top: 0.5em;
+}
